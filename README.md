@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://img.shields.io/badge/Live-Dashboard-brightgreen?style=for-the-badge&logo=streamlit)](https://startup-dashboard-i34lkylkhgdm4swfcmj4mk.streamlit.app/)  
 
-🔗 **Live Demo:** [Startup Funding Dashboard](https://startup-dashboard-i34lkylkhgdm4swfcmj4mk.streamlit.app/)  
+🔗 **Live Demo:** [Startup Funding Dashboard](https://1805808-startup-dashboard-app-oy1nry.streamlit.app/)  
 
 ---
 
